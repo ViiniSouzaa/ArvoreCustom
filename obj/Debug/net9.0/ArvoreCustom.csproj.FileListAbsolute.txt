@@ -1,0 +1,14 @@
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\bin\Debug\net9.0\ArvoreCustom.exe
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\bin\Debug\net9.0\ArvoreCustom.deps.json
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\bin\Debug\net9.0\ArvoreCustom.runtimeconfig.json
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\bin\Debug\net9.0\ArvoreCustom.dll
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\bin\Debug\net9.0\ArvoreCustom.pdb
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\obj\Debug\net9.0\ArvoreCustom.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\obj\Debug\net9.0\ArvoreCustom.AssemblyInfoInputs.cache
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\obj\Debug\net9.0\ArvoreCustom.AssemblyInfo.cs
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\obj\Debug\net9.0\ArvoreCustom.csproj.CoreCompileInputs.cache
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\obj\Debug\net9.0\ArvoreCustom.dll
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\obj\Debug\net9.0\refint\ArvoreCustom.dll
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\obj\Debug\net9.0\ArvoreCustom.pdb
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\obj\Debug\net9.0\ArvoreCustom.genruntimeconfig.cache
+c:\Users\amalm\Documents\ArvoreCustom\ArvoreCustom\obj\Debug\net9.0\ref\ArvoreCustom.dll
